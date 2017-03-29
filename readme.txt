@@ -6,3 +6,5 @@ Git tracks changes.
 Creating a new branch is quick AND simple.
 
 试试中文
+
+修复BUG101
